@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kps-sample-xmlsec-1.4.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kps-sample-xmlsec-1.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
